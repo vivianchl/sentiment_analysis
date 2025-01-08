@@ -79,3 +79,7 @@ Example of review:
 	Evaluative words: excellent
 	
 	Sentiment: positive
+ ## Task
+
+Sentence-level sentiment analysis is a typical text classification task. To understand this task, the amazon customer review is used as the scenario. In this task, we focus on video game reviews and create a sentiment analyzer to predict if a review is positive or negative.
+
